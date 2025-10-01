@@ -1,0 +1,19 @@
+D:\my project\c# project\Hostel Management Syatem\bin\Debug\Hostel Management Syatem.exe.config
+D:\my project\c# project\Hostel Management Syatem\bin\Debug\Hostel Management Syatem.exe
+D:\my project\c# project\Hostel Management Syatem\bin\Debug\Hostel Management Syatem.pdb
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel Management Syatem.csproj.AssemblyReference.cache
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel_Management_Syatem.Mainform.resources
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel_Management_Syatem.Properties.Resources.resources
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel Management Syatem.csproj.GenerateResource.cache
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel Management Syatem.csproj.CoreCompileInputs.cache
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel Management Syatem.exe
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel Management Syatem.pdb
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel Management Syatem.exe.config
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel_Management_Syatem.room.resources
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel_Management_Syatem.student.resources
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel_Management_Syatem.about.resources
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel_Management_Syatem.login.resources
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel_Management_Syatem.fee.resources
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel_Management_Syatem.loding.resources
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel_Management_Syatem.visitor.resources
+D:\my project\c# project\Hostel Management Syatem\obj\Debug\Hostel_Management_Syatem.logout.resources

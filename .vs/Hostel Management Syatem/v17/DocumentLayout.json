@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\my project\\c# project\\Hostel Management Syatem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\loding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:loding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|d:\\my project\\c# project\\hostel management syatem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Redmibook 16\\AppData\\Local\\Temp\\30punb1c..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.roomtype.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.School.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Redmibook 16\\AppData\\Local\\Temp\\benoragz..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.fee.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\visitor.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:visitor.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\visitor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:visitor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.visitor.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|D:\\my project\\c# project\\Hostel Management Syatem\\loding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB32C6-165D-4ED4-BEC8-187B23946DBD}|Hostel Management Syatem.csproj|solutionrelative:loding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.room.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mainform.cs [Design]",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\Mainform.cs",
+              "RelativeDocumentMoniker": "Mainform.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\Mainform.cs [Design]",
+              "RelativeToolTip": "Mainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:01:03.14Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "room.cs",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\room.cs",
+              "RelativeDocumentMoniker": "room.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\room.cs",
+              "RelativeToolTip": "room.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAwwAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:42:42.573Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "student.cs [Design]",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\student.cs",
+              "RelativeDocumentMoniker": "student.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\student.cs [Design]",
+              "RelativeToolTip": "student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:47:51.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\student.cs",
+              "RelativeDocumentMoniker": "student.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\student.cs",
+              "RelativeToolTip": "student.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAswEYBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:49:57.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:41:03.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "30punb1c..sql",
+              "DocumentMoniker": "C:\\Users\\Redmibook 16\\AppData\\Local\\Temp\\30punb1c..sql",
+              "ToolTip": "C:\\Users\\Redmibook 16\\AppData\\Local\\Temp\\30punb1c..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-17T08:44:49.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loding.cs [Design]",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\loding.cs",
+              "RelativeDocumentMoniker": "loding.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\loding.cs [Design]*",
+              "RelativeToolTip": "loding.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T11:49:57.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.School.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.School.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.School.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-17T08:34:50.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.roomtype.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.roomtype.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.roomtype.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-17T08:35:05.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "room.cs [Design]",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\room.cs",
+              "RelativeDocumentMoniker": "room.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\room.cs [Design]",
+              "RelativeToolTip": "room.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:08:39.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "about.cs [Design]",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\about.cs",
+              "RelativeDocumentMoniker": "about.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\about.cs [Design]",
+              "RelativeToolTip": "about.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:56:30.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "visitor.cs [Design]",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\visitor.cs",
+              "RelativeDocumentMoniker": "visitor.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\visitor.cs [Design]",
+              "RelativeToolTip": "visitor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:48:47.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fee.cs [Design]",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\fee.cs",
+              "RelativeDocumentMoniker": "fee.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\fee.cs [Design]",
+              "RelativeToolTip": "fee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T04:28:53.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "fee.cs",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\fee.cs",
+              "RelativeDocumentMoniker": "fee.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\fee.cs",
+              "RelativeToolTip": "fee.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAkwEEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T04:30:51.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "logout.cs [Design]",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\logout.cs",
+              "RelativeDocumentMoniker": "logout.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\logout.cs [Design]",
+              "RelativeToolTip": "logout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:26:37.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:39:23.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:32:03.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "visitor.cs",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\visitor.cs",
+              "RelativeDocumentMoniker": "visitor.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\visitor.cs",
+              "RelativeToolTip": "visitor.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAwwEEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:52:05.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Mainform.cs",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\Mainform.cs",
+              "RelativeDocumentMoniker": "Mainform.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\Mainform.cs",
+              "RelativeToolTip": "Mainform.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAlwCwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:09:42.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "about.cs",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\about.cs",
+              "RelativeDocumentMoniker": "about.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\about.cs",
+              "RelativeToolTip": "about.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAWwDYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:59:22.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "benoragz..sql",
+              "DocumentMoniker": "C:\\Users\\Redmibook 16\\AppData\\Local\\Temp\\benoragz..sql",
+              "ToolTip": "C:\\Users\\Redmibook 16\\AppData\\Local\\Temp\\benoragz..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-04T08:49:02.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.fee.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.fee.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.fee.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-03T04:24:56.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "logout.cs",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\logout.cs",
+              "RelativeDocumentMoniker": "logout.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\logout.cs",
+              "RelativeToolTip": "logout.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:33:02.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "visitor.resx",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\visitor.resx",
+              "RelativeDocumentMoniker": "visitor.resx",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\visitor.resx",
+              "RelativeToolTip": "visitor.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-03T03:02:36.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "visitor.Designer.cs",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\visitor.Designer.cs",
+              "RelativeDocumentMoniker": "visitor.Designer.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\visitor.Designer.cs",
+              "RelativeToolTip": "visitor.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:02:36.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dbo.visitor.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.visitor.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.visitor.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-29T07:23:26.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "loding.cs",
+              "DocumentMoniker": "D:\\my project\\c# project\\Hostel Management Syatem\\loding.cs",
+              "RelativeDocumentMoniker": "loding.cs",
+              "ToolTip": "D:\\my project\\c# project\\Hostel Management Syatem\\loding.cs*",
+              "RelativeToolTip": "loding.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:00:32.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.room.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.room.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_REDMIBOOK_16_DOCUMENTS_THAZINNWEHOSTAL.MDF/True/SqlTable/dbo.room.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-15T11:49:00.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
