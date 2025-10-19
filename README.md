@@ -15,7 +15,7 @@ navigation across multiple pages
 
 
 # 📸 Screenshots
-## loding page
+## loading page
 <img width="988" height="574" alt="image" src="https://github.com/user-attachments/assets/a6871528-95a7-4be3-86f3-fad36e187fee" />
 
 ## login page
